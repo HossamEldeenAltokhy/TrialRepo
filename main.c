@@ -3,16 +3,6 @@
  * Author: Hossam Eldeen Altokhy
  *
  * Created on April 18, 2020, 4:13 PM
- * 
- * 
- * 
- * 
- * 
-git init   
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/hossamaltokhy/TrialRepo.git
-git push -u origin master
  */
 
 
@@ -20,5 +10,6 @@ git push -u origin master
 
 int main(void) {
     // Do Nothing
+    // Init ADC
     return 0;
 }
